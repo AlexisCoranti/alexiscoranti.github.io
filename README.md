@@ -1,12 +1,7 @@
 # Portfolio d'Alexis CORANTI
-
----
 ![image description](https://cwiki.apache.org/confluence/download/attachments/75974482/netbeans-logo-2-cleanedpx64.png?version=1&modificationDate=1519886525000&api=v2) ![image description](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png) ![image description](https://i.postimg.cc/vBV73qbY/html5-logo-31821-2.png) ![image description](https://i.postimg.cc/Nff3Pm2h/bootstrap-logo-1.jpg) ![image description](https://i.postimg.cc/ydCdFvdC/1024px-Git-logo-svg-1.png) ![image description](https://i.postimg.cc/QCrfZGdY/25231-1.png)
 
 ![N|Solid](https://i.postimg.cc/SxwDrrdS/CORANTI-Alexis.png)
-
-
----
 
 ## Objectifs :
 
